@@ -1,6 +1,5 @@
 # 💫About Me :
-I love Nagi 
-BLUE LOCK
+Introduce myself:  https://manmandh.github.io/introduce/
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/manloveuvaIT) 
