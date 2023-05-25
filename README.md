@@ -1,5 +1,4 @@
 # 💫About Me :
-I'm studying at VKU
 Introduce myself:  https://manmandh.github.io/introduce/
 
 ## 🌐Socials
